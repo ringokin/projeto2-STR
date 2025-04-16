@@ -1,0 +1,3 @@
+﻿  main.c
+C:\Users\victo\OneDrive\Área de Trabalho\proj2\FreeRTOS\projeto\main\main.c(296,1): warning C4702: código inacessível
+  WIN32.vcxproj -> C:\Users\victo\OneDrive\Área de Trabalho\proj2\FreeRTOS\projeto\main\Debug\RTOSDemo.exe

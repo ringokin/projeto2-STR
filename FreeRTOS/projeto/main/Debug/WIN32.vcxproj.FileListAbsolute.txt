@@ -1,0 +1,5 @@
+C:\Users\victo\OneDrive\Área de Trabalho\me is one bot\.aulas\2024.2\STR\proj2teste3\FreeRTOSv202212.01\FreeRTOS\Demo\WIN32-MSVC\Debug\RTOSDemo.exe
+C:\Users\victo\OneDrive\Área de Trabalho\me is one bot\.aulas\2024.2\STR\proj2pronto\FreeRTOS\Demo\WIN32-MSVC\Debug\RTOSDemo.exe
+C:\Users\victo\OneDrive\Área de Trabalho\me is one bot\.aulas\2024.2\STR\proj2pronto2\FreeRTOS\projeto\main\Debug\RTOSDemo.exe
+C:\Users\victo\OneDrive\Área de Trabalho\me is one bot\.aulas\2024.2\STR\proj2\FreeRTOS\projeto\main\Debug\RTOSDemo.exe
+C:\Users\victo\OneDrive\Área de Trabalho\proj2\FreeRTOS\projeto\main\Debug\RTOSDemo.exe

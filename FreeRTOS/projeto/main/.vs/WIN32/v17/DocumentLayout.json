@@ -1,0 +1,175 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\victo\\OneDrive\\\u00C1rea de Trabalho\\proj2\\FreeRTOS\\projeto\\main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C686325E-3261-42F7-AEB1-DDE5280E1CEB}|WIN32.vcxproj|C:\\Users\\victo\\OneDrive\\\u00C1rea de Trabalho\\proj2\\FreeRTOS\\projeto\\main\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C686325E-3261-42F7-AEB1-DDE5280E1CEB}|WIN32.vcxproj|solutionrelative:main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C686325E-3261-42F7-AEB1-DDE5280E1CEB}|WIN32.vcxproj|C:\\Users\\victo\\OneDrive\\\u00C1rea de Trabalho\\proj2\\FreeRTOS\\projeto\\main\\FreeRTOSConfig.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C686325E-3261-42F7-AEB1-DDE5280E1CEB}|WIN32.vcxproj|solutionrelative:FreeRTOSConfig.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\victo\\OneDrive\\\u00C1rea de Trabalho\\me is one bot\\.aulas\\2024.2\\STR\\proj2teste3\\FreeRTOSv202212.01\\FreeRTOS\\Source\\include\\FreeRTOS.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files (x86)\\Windows Kits\\10\\Source\\10.0.22621.0\\ucrt\\misc\\invalid_parameter.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files (x86)\\Windows Kits\\10\\Source\\10.0.22621.0\\ucrt\\stdio\\fwrite.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\um\\winnt.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\victo\\OneDrive\\\u00C1rea de Trabalho\\me is one bot\\.aulas\\2024.2\\STR\\proj2teste3\\FreeRTOSv202212.01\\FreeRTOS-Plus\\Source\\FreeRTOS-Plus-Trace\\Include\\trcRecorder.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\victo\\OneDrive\\\u00C1rea de Trabalho\\me is one bot\\.aulas\\2024.2\\STR\\proj2teste3\\FreeRTOSv202212.01\\FreeRTOS\\Demo\\Common\\Minimal\\AbortDelay.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\victo\\OneDrive\\\u00C1rea de Trabalho\\me is one bot\\.aulas\\2024.2\\STR\\proj2teste3\\FreeRTOSv202212.01\\FreeRTOS\\Source\\include\\task.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\victo\\OneDrive\\\u00C1rea de Trabalho\\me is one bot\\.aulas\\2024.2\\STR\\proj2teste3\\FreeRTOSv202212.01\\FreeRTOS\\Source\\tasks.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.c",
+              "DocumentMoniker": "C:\\Users\\victo\\OneDrive\\\u00C1rea de Trabalho\\proj2\\FreeRTOS\\projeto\\main\\main.c",
+              "RelativeDocumentMoniker": "main.c",
+              "ToolTip": "C:\\Users\\victo\\OneDrive\\\u00C1rea de Trabalho\\proj2\\FreeRTOS\\projeto\\main\\main.c",
+              "RelativeToolTip": "main.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFwBAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-04-15T16:33:15.995Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FreeRTOSConfig.h",
+              "DocumentMoniker": "C:\\Users\\victo\\OneDrive\\\u00C1rea de Trabalho\\proj2\\FreeRTOS\\projeto\\main\\FreeRTOSConfig.h",
+              "RelativeDocumentMoniker": "FreeRTOSConfig.h",
+              "ToolTip": "C:\\Users\\victo\\OneDrive\\\u00C1rea de Trabalho\\proj2\\FreeRTOS\\projeto\\main\\FreeRTOSConfig.h",
+              "RelativeToolTip": "FreeRTOSConfig.h",
+              "ViewState": "AgIAACEAAAAAAAAAAADgvykAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-16T13:29:14.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "trcRecorder.h",
+              "DocumentMoniker": "C:\\Users\\victo\\OneDrive\\\u00C1rea de Trabalho\\me is one bot\\.aulas\\2024.2\\STR\\proj2teste3\\FreeRTOSv202212.01\\FreeRTOS-Plus\\Source\\FreeRTOS-Plus-Trace\\Include\\trcRecorder.h",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\me is one bot\\.aulas\\2024.2\\STR\\proj2teste3\\FreeRTOSv202212.01\\FreeRTOS-Plus\\Source\\FreeRTOS-Plus-Trace\\Include\\trcRecorder.h",
+              "ToolTip": "C:\\Users\\victo\\OneDrive\\\u00C1rea de Trabalho\\me is one bot\\.aulas\\2024.2\\STR\\proj2teste3\\FreeRTOSv202212.01\\FreeRTOS-Plus\\Source\\FreeRTOS-Plus-Trace\\Include\\trcRecorder.h",
+              "RelativeToolTip": "..\\..\\..\\..\\me is one bot\\.aulas\\2024.2\\STR\\proj2teste3\\FreeRTOSv202212.01\\FreeRTOS-Plus\\Source\\FreeRTOS-Plus-Trace\\Include\\trcRecorder.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-16T02:26:49.24Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AbortDelay.c",
+              "DocumentMoniker": "C:\\Users\\victo\\OneDrive\\\u00C1rea de Trabalho\\me is one bot\\.aulas\\2024.2\\STR\\proj2teste3\\FreeRTOSv202212.01\\FreeRTOS\\Demo\\Common\\Minimal\\AbortDelay.c",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\me is one bot\\.aulas\\2024.2\\STR\\proj2teste3\\FreeRTOSv202212.01\\FreeRTOS\\Demo\\Common\\Minimal\\AbortDelay.c",
+              "ToolTip": "C:\\Users\\victo\\OneDrive\\\u00C1rea de Trabalho\\me is one bot\\.aulas\\2024.2\\STR\\proj2teste3\\FreeRTOSv202212.01\\FreeRTOS\\Demo\\Common\\Minimal\\AbortDelay.c",
+              "RelativeToolTip": "..\\..\\..\\..\\me is one bot\\.aulas\\2024.2\\STR\\proj2teste3\\FreeRTOSv202212.01\\FreeRTOS\\Demo\\Common\\Minimal\\AbortDelay.c",
+              "ViewState": "AgIAAIMAAAAAAAAAAADgv4wAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-04-15T18:54:16.179Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "task.h",
+              "DocumentMoniker": "C:\\Users\\victo\\OneDrive\\\u00C1rea de Trabalho\\me is one bot\\.aulas\\2024.2\\STR\\proj2teste3\\FreeRTOSv202212.01\\FreeRTOS\\Source\\include\\task.h",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\me is one bot\\.aulas\\2024.2\\STR\\proj2teste3\\FreeRTOSv202212.01\\FreeRTOS\\Source\\include\\task.h",
+              "ToolTip": "C:\\Users\\victo\\OneDrive\\\u00C1rea de Trabalho\\me is one bot\\.aulas\\2024.2\\STR\\proj2teste3\\FreeRTOSv202212.01\\FreeRTOS\\Source\\include\\task.h",
+              "RelativeToolTip": "..\\..\\..\\..\\me is one bot\\.aulas\\2024.2\\STR\\proj2teste3\\FreeRTOSv202212.01\\FreeRTOS\\Source\\include\\task.h",
+              "ViewState": "AgIAAFYBAAAAAAAAAADgv2cBAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-15T18:21:39.127Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "winnt.h",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\um\\winnt.h",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\um\\winnt.h",
+              "ToolTip": "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\um\\winnt.h",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\um\\winnt.h",
+              "ViewState": "AgIAAHE1AAAAAAAAAAD4v341AAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-15T17:03:57.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "tasks.c",
+              "DocumentMoniker": "C:\\Users\\victo\\OneDrive\\\u00C1rea de Trabalho\\me is one bot\\.aulas\\2024.2\\STR\\proj2teste3\\FreeRTOSv202212.01\\FreeRTOS\\Source\\tasks.c",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\me is one bot\\.aulas\\2024.2\\STR\\proj2teste3\\FreeRTOSv202212.01\\FreeRTOS\\Source\\tasks.c",
+              "ToolTip": "C:\\Users\\victo\\OneDrive\\\u00C1rea de Trabalho\\me is one bot\\.aulas\\2024.2\\STR\\proj2teste3\\FreeRTOSv202212.01\\FreeRTOS\\Source\\tasks.c",
+              "RelativeToolTip": "..\\..\\..\\..\\me is one bot\\.aulas\\2024.2\\STR\\proj2teste3\\FreeRTOSv202212.01\\FreeRTOS\\Source\\tasks.c",
+              "ViewState": "AgIAAJENAAAAAAAAAAAiwJ4NAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-04-15T16:59:44.703Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "invalid_parameter.cpp",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Windows Kits\\10\\Source\\10.0.22621.0\\ucrt\\misc\\invalid_parameter.cpp",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\Program Files (x86)\\Windows Kits\\10\\Source\\10.0.22621.0\\ucrt\\misc\\invalid_parameter.cpp",
+              "ToolTip": "C:\\Program Files (x86)\\Windows Kits\\10\\Source\\10.0.22621.0\\ucrt\\misc\\invalid_parameter.cpp",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\Program Files (x86)\\Windows Kits\\10\\Source\\10.0.22621.0\\ucrt\\misc\\invalid_parameter.cpp",
+              "ViewState": "AgIAAOkAAAAAAAAAAAAiwOwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-15T16:59:35.308Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FreeRTOS.h",
+              "DocumentMoniker": "C:\\Users\\victo\\OneDrive\\\u00C1rea de Trabalho\\me is one bot\\.aulas\\2024.2\\STR\\proj2teste3\\FreeRTOSv202212.01\\FreeRTOS\\Source\\include\\FreeRTOS.h",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\me is one bot\\.aulas\\2024.2\\STR\\proj2teste3\\FreeRTOSv202212.01\\FreeRTOS\\Source\\include\\FreeRTOS.h",
+              "ToolTip": "C:\\Users\\victo\\OneDrive\\\u00C1rea de Trabalho\\me is one bot\\.aulas\\2024.2\\STR\\proj2teste3\\FreeRTOSv202212.01\\FreeRTOS\\Source\\include\\FreeRTOS.h",
+              "RelativeToolTip": "..\\..\\..\\..\\me is one bot\\.aulas\\2024.2\\STR\\proj2teste3\\FreeRTOSv202212.01\\FreeRTOS\\Source\\include\\FreeRTOS.h",
+              "ViewState": "AgIAANEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-15T16:37:47.904Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "fwrite.cpp",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Windows Kits\\10\\Source\\10.0.22621.0\\ucrt\\stdio\\fwrite.cpp",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\Program Files (x86)\\Windows Kits\\10\\Source\\10.0.22621.0\\ucrt\\stdio\\fwrite.cpp",
+              "ToolTip": "C:\\Program Files (x86)\\Windows Kits\\10\\Source\\10.0.22621.0\\ucrt\\stdio\\fwrite.cpp",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\Program Files (x86)\\Windows Kits\\10\\Source\\10.0.22621.0\\ucrt\\stdio\\fwrite.cpp",
+              "ViewState": "AgIAADsAAAAAAAAAAAAiwEcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-15T16:58:17.899Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
