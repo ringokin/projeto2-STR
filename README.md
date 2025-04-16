@@ -1,3 +1,11 @@
+# Projeto 2 de STR
+
+# Célula de Manufatura
+
+Este repositório é referente ao Projeto 02 da disciplina Sistemas em Tempo Real, no período 2024.2, pela Universidade Federal de Campina Grande (UFCG).
+
+---
+
 # Instruções
 - abrir 'FreeRTOS\projeto\main\WIN32.sln' com o Visual Studio 2022  <br />
 - compilar e executar
