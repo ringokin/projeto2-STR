@@ -102,7 +102,8 @@ As máquinas param se não houver espaço disponível na saída ou se não houve
 --- 
 
 ## Exemplo de Execução
-![Imagem de exemplo](https://github.com/usuario/repositorio/raw/main/projeto2-STR/ExemplodeExecução.png)
+![Imagem de exemplo](projeto2-STR/ExemplodeExecução.png)
+
 
 
 
