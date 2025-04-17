@@ -23,6 +23,8 @@ Este projeto tem como objetivo simular uma célula de manufatura utilizando o Fr
 2. Simular a interação entre máquinas, robôs e depósitos em um processo contínuo de produção.
 
 3. Implementar o controle de tempo de movimentação dos robôs e de produção das máquinas.
+   
+4. Avaliar se ocorrem paradas nas máquinas e propor soluções para evitar congestionamentos.
 
 ---
 
