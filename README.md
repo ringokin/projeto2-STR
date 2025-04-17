@@ -10,12 +10,6 @@ Este repositório é referente ao Projeto 02 da disciplina Sistemas em Tempo Rea
 - Victor Hugo Melquíades Klein (119110066)
   
 ---
-  
-# Instruções
-- abrir 'FreeRTOS\projeto\main\WIN32.sln' com o Visual Studio 2022  <br />
-- compilar e executar
-
----
 
 ## Descrição do Projeto 
 
@@ -97,25 +91,31 @@ As máquinas param se não houver espaço disponível na saída ou se não houve
 
 --- 
 
-## Estrutura do Projeto
-
---- 
-
 ## Exemplo de Execução
-![Imagem de exemplo](projeto2-STR/ExemplodeExecução.png)
 
-
-
+<p align="center">
+  <img src="ExemplodeExecução.png" width="680"/>
+</p>
 
 --- 
 
-## Instruções de Instalação e Execução
+## Instruções de Instalação 
+
+- Visual Studio (Versão Community 2022)
+- FreeRTOS v10.0.1
+- SDK do Windows
+- Pacote de Desenvolvimento C++
 
 ---
 
-## Considerações Finais
+## Instruções de Execução
+
+- Abrir 'FreeRTOS\projeto\main\WIN32.sln' com o Visual Studio 2022  <br />
+- Clique em Gerenciador de Soluções (Ctrl + Alt + L)
+- Compilar e executar (Depurador Local do Windows)
 
 ---
+
 
 ## Vídeo de apresentação
 Link de acesso ao vídeo no YouTube:
