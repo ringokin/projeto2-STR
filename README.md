@@ -101,6 +101,10 @@ As máquinas param se não houver espaço disponível na saída ou se não houve
 
 --- 
 
+## Exemplo de Execução
+
+--- 
+
 ## Instruções de Instalação e Execução
 
 ---
