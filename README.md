@@ -22,9 +22,7 @@ Este projeto tem como objetivo simular uma célula de manufatura utilizando o Fr
 
 2. Simular a interação entre máquinas, robôs e depósitos em um processo contínuo de produção.
 
-3. Avaliar se ocorrem paradas nas máquinas e propor soluções para evitar congestionamentos.
-
-4. Implementar o controle de tempo de movimentação dos robôs, de modo a otimizar o fluxo da produção.
+3. Implementar o controle de tempo de movimentação dos robôs e de produção das máquinas.
 
 ---
 
@@ -34,11 +32,9 @@ O sistema desenvolvido simula a operação de uma célula de manufatura com as s
 
 Controle de máquinas: M1, M2 e M3 produzem itens conforme o tempo de produção determinado.
 
-Movimentação de robôs: Quatro robôs realizam o transporte de itens entre os depósitos e máquinas, com tempos específicos de movimentação.
+Movimentação de robôs: Quatro robôs realizam o transporte de itens entre os depósitos, com tempos específicos de movimentação.
 
 Gerenciamento de depósitos: Cada máquina e a célula possuem depósitos que armazenam itens antes e depois do processo de produção.
-
-Paradas e otimização: O sistema verifica se alguma máquina para devido à falta de itens ou capacidade de armazenamento e propõe ajustes no tempo de movimentação dos robôs para resolver o problema.
 
 --- 
 
@@ -82,7 +78,7 @@ Tempo de produção das máquinas:
 
 - M3: 3 segundos por item.
 
-Tempo de interação com os depósitos: 0,1 segundo por operação de retirar ou colocar um item.
+Tempo de interação com os depósitos: 0,1 segundo por interação dos robôs com o depósito.
 
 Condições Especiais:
 O depósito de cada máquina só pode armazenar um item por vez.
@@ -99,19 +95,26 @@ As máquinas param se não houver espaço disponível na saída ou se não houve
 
 --- 
 
+## Considerações
+
+Percebemos que, ao longo do funcionamento fo sistema, as máquinas 2 e 3 acabam ficando paradas, em média, por cerca de 33% do tempo. Isso se deve porque a máquina 1 produz os itens utilizados nas máquinas 2 e 3, mas produz mais lentamente do que estas podem consumir, criando um gargalo na máquina 1. Para solucionar esse problema, há duas opções:
+- Mantendo o throughput: Podemos substituir a máquina 2 por uma que demore 3 segundos para produzir. Assim a produção das máquinas 2 e 3 será igual à da máquina 1 e todas funcionarão 100% do tempo;
+- Aumentando o throughput: Podemos substituir a máquina 1 por uma que demore 1 segundo para produzir, igualando novamente a capacidade da máquina 1 com a do conjunto das máquinas 2 e 3 (1 item/s). Contudo, com isso, o gargalo passará para os robôs 1 e 4, que não atuam paralelamente (como o 2 e 3), e possuem a capacidade de mover 1 item a cada 1,2 segundos (2x(0,5 + 0,1)). Portanto, precisamos acelerar os robôs 1 e 4 para que façam a movimentação entre os depósitos em 0,4 segundos. Dessa forma todas as máquinas funcionarão 100% do tempo e apenas os robôs 2 e 3 terão tempo ocioso.
+
+---
+
 ## Instruções de Instalação 
 
 - Visual Studio (Versão Community 2022)
-- FreeRTOS v10.0.1
-- SDK do Windows
 - Pacote de Desenvolvimento C++
+- SDK do Windows
+- FreeRTOS v10.0.1
 
 ---
 
 ## Instruções de Execução
 
-- Abrir 'FreeRTOS\projeto\main\WIN32.sln' com o Visual Studio 2022  <br />
-- Clique em Gerenciador de Soluções (Ctrl + Alt + L)
+- Abrir 'FreeRTOS\projeto\main\WIN32.sln' com o Visual Studio 2022 
 - Compilar e executar (Depurador Local do Windows)
 
 ---
