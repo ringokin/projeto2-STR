@@ -1,5 +1,5 @@
 
-# Célula de Manufatura
+# Célula de Manufatura com FreeRTOS
 
 Este repositório é referente ao Projeto 02 da disciplina Sistemas em Tempo Real, no período 2024.2, pela Universidade Federal de Campina Grande (UFCG).
 
