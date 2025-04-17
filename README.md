@@ -102,6 +102,8 @@ As máquinas param se não houver espaço disponível na saída ou se não houve
 --- 
 
 ## Exemplo de Execução
+![Imagem de exemplo](./pasta/Exemplo de Execução.png)
+
 
 --- 
 
